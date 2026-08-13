@@ -1,0 +1,6 @@
+{
+  "name": "Northstar Insurance Broker Portal",
+  "description": "Enterprise B2B insurance portal and public website with broker authentication, quote application flow, and policy management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
