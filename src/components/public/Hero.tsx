@@ -38,9 +38,9 @@ export const Hero: React.FC = () => {
             </div>
 
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight text-white leading-tight">
-         Hi <span data-vwo="name">prospect</span>! <br>
+         Hi <span data-vwo="name">prospect</span>!
          We Empower Brokers with Faster Quotes & Smarter Coverage
-           </br>
+          
           </h1>
 
             <p className="text-base sm:text-lg text-slate-300 max-w-2xl leading-relaxed">
