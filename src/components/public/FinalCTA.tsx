@@ -25,7 +25,7 @@ export const FinalCTA: React.FC = () => {
       <div className="relative max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center space-y-8">
         
         <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold tracking-tight">
-          Ready to submit a quote?
+          Ready to submit a quote, <span data-vwo="name">prospect</span>?
         </h2>
 
         <p className="text-lg text-slate-300 max-w-2xl mx-auto">
