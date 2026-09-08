@@ -38,8 +38,9 @@ export const Hero: React.FC = () => {
             </div>
 
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight text-white leading-tight">
-              Empowering Brokers with Faster Quotes & Smarter Coverage
-            </h1>
+         Hi <span data-vwo="name">prospect</span>! <br>
+         We Empower Brokers with Faster Quotes & Smarter Coverage
+          </h1>
 
             <p className="text-base sm:text-lg text-slate-300 max-w-2xl leading-relaxed">
               Northstar Insurance connects licensed brokers to multi-carrier risk capacity, automated underwriting workflows, and digital application tracking across Health, Commercial, Life, and Property & Casualty.
